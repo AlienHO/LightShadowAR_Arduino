@@ -10,10 +10,10 @@ public class Test2 : MonoBehaviour
         Debug.Log("第一次测试");
     }
 
-    // Update is called once per frame
-    void Update()
+
+    public void Click()
     {
-        
+        Debug.Log("点击了按钮");
     }
 
 
