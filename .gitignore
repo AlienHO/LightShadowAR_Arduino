@@ -1,3 +1,15 @@
 
 Library/
 Logs/
+
+.vs/LightShadowAR_Arduino/FileContentIndex/d53ff5fd-775a-42de-bf8b-a4f2dacd43df.vsidx
+
+Assembly-CSharp.csproj
+
+Temp/
+
+obj/Debug/
+
+*.sln
+
+.vs/LightShadowAR_Arduino/FileContentIndex/read.lock
