@@ -13,3 +13,7 @@ obj/Debug/
 *.sln
 
 .vs/LightShadowAR_Arduino/FileContentIndex/read.lock
+
+.vs/LightShadowAR_Arduino/v17/.suo
+
+*.vsidx
